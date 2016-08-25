@@ -484,3 +484,7 @@ footer .footer-below {
 #cont:focus {
     color: #EA4C44;
 }
+
+#profileImg {
+    margin-top: -60px;
+}
